@@ -1,3 +1,13 @@
+下記URLを参考
+https://midorimici.com/posts/react-typing-app#%E5%AE%9F%E8%A3%85
+
+# 問題点
+* ON/OFFのボタンを選択して、スペースを押すとON/OFFが切り替わる
+* CSSの表示をきれいにする
+* ミスタイプ数や正確率の表示
+* タイプ時間の表示
+
+# ==================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -41,6 +41,29 @@
   color: #000;
 }
 
-.wating-letters{
+.current-letter{
+  color: #C0C0C0;
+  text-decoration: underline #000;
+  animation: blink 1s linear infinite;
+  // animation: blinkAnimeS4 .5s infinite alternate;
+}
+@keyframes blinkAnimeS4{
+  0%  { text-decoration: #fff }
+  100%{ text-decoration: #000 }
+}
+@keyframes blink {
+  100% {
+    text-decoration: none;
+  }
+}
+
+
+.waiting-letters{
   color: #C0C0C0;
 }
+
+.typo{
+  color: #F00;
+}
+
+// 
